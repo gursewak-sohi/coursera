@@ -1,0 +1,23 @@
+p {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.page-header {
+    border: none;
+}
+
+.box {
+    border: 1px solid #eee;
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
